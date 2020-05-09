@@ -415,8 +415,8 @@ figure.effect-honey:hover h2 i {
 /* Contact */
 
 #contact {
-  color: white;
-  background-image: url(../img/the-town-bg-02.jpg);
+  color: black;
+  background-image: url(../img/img02_new.jpg);
   background-position: center;
   background-repeat: no-repeat;
   min-height: 850px;
@@ -448,7 +448,7 @@ figure.effect-honey:hover h2 i {
 
 .tm-contact-item-link i,
 .tm-contact-item-link span {
-  color: white;
+  color: black;
   transition: all 0.3s ease;
 }
 
